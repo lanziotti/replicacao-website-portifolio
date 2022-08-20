@@ -7,6 +7,7 @@
   - HTML semântico
 - CSS
   - Classes auxiliares
+  - Flexbox
 
 #### Imagens do projeto:
 
