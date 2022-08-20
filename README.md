@@ -2,6 +2,9 @@
 
 ### Projeto em desenvolvimento no curso da Cubos Academy
 
+#### Descrição:
+O projeto consistia em replicar o website estático (arquivo .fig) de maneira mais fiel possível.
+
 #### Linguagens utilizadas:
 - HTML
   - HTML semântico
