@@ -1,0 +1,49 @@
+.manage-section {
+    display: flex;
+}
+
+.manage-section__imagem {
+    background-image: url(../../assets/portfolio/manage/image-portfolio-manage.jpg);
+    background-position: center;
+    background-size: cover;
+
+    width: 540px;
+}
+
+
+
+.bookmark-section {
+    display: flex;
+}
+
+.bookmark-section__imagem {
+    background-image: url(../../assets/portfolio/bookmark/image-portfolio-bookmark.jpg);
+    background-position: center;
+    background-size: cover;
+
+    width: 540px;
+}
+
+.insure-section {
+    display: flex;
+}
+
+.insure-section__imagem {
+    background-image: url(../../assets/portfolio/insure/image-portfolio-insure.jpg);
+    background-position: center;
+    background-size: cover;
+
+    width: 540px;
+}
+
+.fylo-section {
+    display: flex;
+}
+
+.fylo-section__imagem {
+    background-image: url(../../assets/portfolio/fylo/image-portfolio-fylo.jpg);
+    background-position: center;
+    background-size: cover;
+
+    width: 540px;
+}

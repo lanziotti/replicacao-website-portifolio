@@ -1,0 +1,372 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #F2F2F2;
+    min-height: 100vh;
+}
+
+.cor-branca {
+    color: #FFFF;
+}
+
+.cor-primaria-cyan {
+    color: #5FB4A2;
+}
+
+.cor-primaria-blue {
+    color: #203A4C;
+}
+
+.cor-primaria-grayish {
+    color: #33323D;
+}
+
+.cor-secundaria-bg {
+    color: #FAFAFA;
+}
+
+.cor-secundaria-input {
+    color: #EAEAEB;
+}
+
+.public-sans-400-12 {
+    font-family: 'Public Sans', sans-serif;
+    font-weight: 400;
+    font-size: 12px;
+}
+
+.public-sans-400-15 {
+    font-family: 'Public Sans', sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+}
+
+.public-sans-400-16 {
+    font-family: 'Public Sans', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.public-sans-700-13 {
+    font-family: 'Public Sans', sans-serif;
+    font-weight: 700;
+    font-size: 13px;
+}
+
+.public-sans-700-16 {
+    font-family: 'Public Sans', sans-serif;
+    font-weight: 700;
+    font-size: 16px;
+}
+
+.ibarra-400 {
+    font-family: 'Ibarra Real Nova', serif;
+    font-weight: 400;
+}
+
+.ibarra-400-32 {
+    font-family: 'Ibarra Real Nova', serif;
+    font-weight: 400;
+
+    font-size: 32px;
+}
+
+.ibarra-700-40 {
+    font-family: 'Ibarra Real Nova', serif;
+    font-weight: 700;
+    font-size: 40px;
+}
+
+.ibarra-700-50 {
+    font-family: 'Ibarra Real Nova', serif;
+    font-weight: 700;
+    font-size: 50px;
+}
+
+.text-decoration {
+    text-decoration: none;
+}
+
+.list-style-type {
+    list-style-type: none;
+}
+
+.space-between {
+    display: flex;
+    justify-content: space-between;
+}
+
+.align-items-center {
+    display: flex;
+    align-items: center;
+}
+
+.align-items-end {
+    display: flex;
+    align-items: flex-end;
+}
+
+.mt-32 {
+    margin-top: 32px;
+}
+
+.mt-47 {
+    margin-top: 47px;
+}
+
+.mt-48 {
+    margin-top: 48px;
+}
+
+.mt-51 {
+    margin-top: 51px;
+}
+
+.mt-103 {
+    margin-top: 103px;
+}
+
+.mb-8 {
+    margin-bottom: 8px;
+}
+
+
+.mb-24 {
+    margin-bottom: 24px;
+}
+
+.mb-28 {
+    margin-bottom: 28px;
+}
+
+.mb-29 {
+    margin-bottom: 29px;
+}
+
+.mb-32 {
+    margin-bottom: 32px;
+}
+
+.mb-40 {
+    margin-bottom: 40px;
+}
+
+.mb-46 {
+    margin-bottom: 46px;
+}
+
+.mb-48 {
+    margin-bottom: 48px;
+}
+
+.mb-53 {
+    margin-bottom: 53px;
+}
+
+.mb-54 {
+    margin-bottom: 54px;
+}
+
+.mb-64 {
+    margin-bottom: 64px;
+}
+
+.mb-80 {
+    margin-bottom: 80px;
+}
+
+.mb-103 {
+    margin-bottom: 103px;
+}
+
+.mb-115 {
+    margin-bottom: 115px;
+}
+
+.mb-150 {
+    margin-bottom: 150px;
+}
+
+
+.header {
+    margin: 64px 164px 54px 165px;
+    display: flex;
+}
+
+.header img {
+    height: 32px;
+    width: 60.081634521484375px;
+}
+
+.header ul {
+    display: flex;
+    gap: 43px;
+}
+
+.main {
+    margin: 0 165px 150px 165px;
+}
+
+.main-1 {
+    margin: 94px 213px 150px 212px;
+}
+
+.main-2 {
+    margin: 94px 165px 150px 165px;
+}
+
+.main-3 {
+    margin: 94px 165px 109px 165px;
+}
+
+
+.manage-section__text {
+    width: 350px;
+}
+
+.manage-section__traco {
+    background: #33323D;
+    opacity: 0.15;
+
+    height: 1px;
+}
+
+.manage-section__text p {
+    height: 120px;
+
+    line-height: 30px;
+    opacity: 0.8;
+}
+
+.alinha-btn {
+    display: flex;
+}
+
+.alinha-text {
+    display: flex;
+    flex-direction: column;
+}
+
+.btn-branco a {
+    text-decoration: none;
+    color: #33323D;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.btn-branco {
+    border: 1px solid #33323D;
+
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.caixa-btn-port {
+    height: 48px;
+    width: 204px;
+}
+
+.caixa-btn-contato {
+    height: 48px;
+    width: 168px;
+}
+
+.caixa-btn-projeto {
+    height: 48px;
+    width: 175px;
+}
+
+.caixa-btn-visitar {
+    height: 48px;
+    width: 178px;
+}
+
+.contato-section {
+    display: flex;
+    align-items: center;
+}
+
+.contato-section h2 {
+    width: 367px;
+    line-height: 42px;
+    letter-spacing: -0.357143px;
+}
+
+.left a {
+    text-decoration: none;
+
+    gap: 32px;
+}
+
+.right a {
+    text-decoration: none;
+
+    gap: 32px;
+}
+
+.left img {
+    height: 16px;
+    width: 8px;
+}
+
+.right img {
+    height: 16px;
+    width: 8px;
+}
+
+.footer {
+    background: #33323D;
+
+    display: flex;
+    align-items: center;
+
+    padding: 24px 165px;
+}
+
+.footer__1 {
+    display: flex;
+    align-items: center;
+    gap: 48px;
+}
+
+.footer__1 img {
+    height: 32px;
+    width: 61px;
+}
+
+.footer__1 ul {
+    display: flex;
+    gap: 43px;
+}
+
+.footer__2 {
+    gap: 16px;
+}
+
+.footer__2 img {
+    height: 24px;
+    width: 24px;
+}
+
+.btn-principal :hover {
+    background: #5FB4A2;
+}
+
+.btn-secundario-1 :hover {
+    background: #33323D;
+    color: #FAFAFA;
+}
+
+
+/* 
+font-family: 'Ibarra Real Nova', serif;
+font-family: 'Public Sans', sans-serif; */

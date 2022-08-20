@@ -1,0 +1,120 @@
+.hero-section {
+    background-image: url(../../assets/home/image-homepage-hero.jpg);
+    background-size: cover;
+    background-position: center;
+
+    height: 600px;
+
+    margin-bottom: 149px;
+
+    display: flex;
+    align-items: flex-end;
+}
+
+.hero-section__card {
+    background: #FAFAFA;
+
+    width: 445px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+}
+
+.hero-section__card h1 {
+    margin: 56px 28px 53px 27px;
+
+    width: 390px;
+
+    line-height: 50px;
+    letter-spacing: -0.446429px;
+}
+
+.hero-section__card--btn {
+    display: flex;
+}
+
+.hero-section__card--btn a {
+    background: #203A4C;
+    color: #FFFFFF;
+
+    height: 48px;
+    width: 200px;
+
+    display: flex;
+    align-items: center;
+}
+
+
+
+.imagem-btn {
+    height: 48px;
+    width: 48px;
+    background: #000000;
+    opacity: 0.1;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.imagem-btn img {
+    height: 12px;
+    width: 16px;
+}
+
+.a--conteudo {
+    height: 14px;
+    width: 152px;
+
+    text-align: center;
+}
+
+
+.sobre-section {
+    display: flex;
+
+}
+
+.sobre-section__imagem {
+    background-image: url(../../assets/home/image-homepage-profile.jpg);
+    background-position: center;
+    background-size: cover;
+
+    width: 540px;
+
+}
+
+.alinha {
+    width: 430px;
+}
+
+.sobre-section__traco {
+    background: #33323D;
+    opacity: 0.15;
+
+    height: 1px;
+}
+
+
+.sobre-section__texto p {
+    height: 360px;
+
+    line-height: 30px;
+    opacity: 0.8;
+}
+
+.alinha-btn {
+    display: flex;
+    justify-content: center;
+}
+
+.btn-branco a {
+    text-decoration: none;
+    color: #33323D;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}

@@ -1,0 +1,79 @@
+.entre-contato__text h2 {
+    width: 350px;
+}
+
+.entre-contato__text-1 p {
+    width: 635px;
+    height: 180px;
+
+    line-height: 30px;
+    opacity: 0.8;
+}
+
+.tamanho {
+    width: 104px;
+}
+
+.tamanho-formulario {
+    width: 635px;
+}
+
+.gap-24 {
+    gap: 24px;
+}
+
+.input-primario input {
+    all: unset;
+    box-sizing: border-box;
+
+    height: 48px;
+
+    color: #33323D;
+    background: #EAEAEB;
+
+    padding: 0 8px;
+}
+
+.input-primario input:focus {
+    border: 1px solid #33323D;
+}
+
+.input-secundario input {
+    all: unset;
+    box-sizing: border-box;
+
+    height: 96px;
+
+    color: #33323D;
+    background: #EAEAEB;
+
+    padding: 0 8px;
+}
+
+.input-secundario input:focus {
+    border: 1px solid #33323D;
+}
+
+button {
+    all: unset;
+    box-sizing: border-box;
+
+    height: 48px;
+    width: 162px;
+
+    background: #203A4C;
+    color: #FFFFFF;
+
+    text-align: center;
+
+    font-family: 'Public Sans', sans-serif;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+
+    cursor: pointer;
+}
+
+button:hover {
+    background: #5FB4A2;
+}
